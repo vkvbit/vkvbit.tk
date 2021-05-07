@@ -37,3 +37,42 @@
             <loc>https://vkvbit.tk/about/</loc>
         </sitemap>    
     </sitemapindex>
+
+    <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+        <url>
+            <loc>https://vkvbit.tk/</loc>
+        </url>
+        <url>
+            <loc>https://vkvbit.tk/sitemap.xml</loc>
+        </url>
+        <url>
+            <loc>https://vkvbit.tk/doc/sitemap.xml</loc>
+        </url>
+        <url>
+            <loc>https://vkvbit.tk/dare/sitemap.xml</loc>
+        </url>
+        <url>
+            <loc>https://vkvbit.tk/contact/sitemap.xml</loc>
+        </url>
+        <url>
+            <loc>https://vkvbit.tk/certificate/sitemap.xml</loc>
+        </url>
+        <url>
+            <loc>https://vkvbit.tk/about/sitemap.xml</loc>
+        </url>
+        <url>
+            <loc>https://vkvbit.tk/doc/</loc>
+        </url>
+        <url>
+            <loc>https://vkvbit.tk/dare/</loc>
+        </url>
+        <url>
+            <loc>https://vkvbit.tk/contact/</loc>
+        </url>
+        <url>
+            <loc>https://vkvbit.tk/certificate/</loc>
+        </url>
+        <url>
+            <loc>https://vkvbit.tk/about/</loc>
+        </url>    
+    </urlset>
