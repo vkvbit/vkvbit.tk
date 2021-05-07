@@ -7,3 +7,12 @@
             <loc>https://vkvbit.tk/dare/sitemap.xml</loc>
         </sitemap> 
     </sitemapindex>
+
+    <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+        <url>
+            <loc>https://vkvbit.tk/dare/</loc>
+        </url>
+      <url>
+            <loc>https://vkvbit.tk/dare/sitemap.xml</loc>
+        </url>     
+    </urlset>
