@@ -7,3 +7,12 @@
             <loc>https://vkvbit.tk/contact/sitemap.xml</loc>
         </sitemap> 
     </sitemapindex>
+
+    <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+        <url>
+            <loc>https://vkvbit.tk/contact/</loc>
+        </url>
+      <url>
+            <loc>https://vkvbit.tk/contact/sitemap.xml</loc>
+        </url>     
+    </urlset>
