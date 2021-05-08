@@ -621,12 +621,13 @@ h1.work {
 
 div.tub1 {
   position: relative;
-  left: 40%;
+  display: flex;
+  justify-content: center;
 }
 
 div.tub2 {
   border: thick solid black;
-  width: 400px;
+  width: 300px;
 }
 
 div.tuhead {
